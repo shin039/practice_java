@@ -1,4 +1,4 @@
-package practice_java.InstantTest;
+package practice_java.Instant;
 
 public class HelloWorld {
 
