@@ -38,10 +38,11 @@ public class HelloWorld_Test {
    */
   @Test
   public void Test(){
-    String expect_return = "Hello World!";
-    String check_target = HelloWorld.helloworld();
 
-    assertEquals(expect_return, check_target);
+    String expect_rtn = "Hello World!";
+    String chk_target = HelloWorld.helloworld();
+
+    assertEquals(expect_rtn, chk_target);
   }
 
   /**
